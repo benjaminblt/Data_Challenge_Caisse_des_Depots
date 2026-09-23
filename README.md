@@ -1,5 +1,11 @@
 # Finance et risques climatiques : scoring d’un portefeuille d’actifs
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/data_challenge.jpg"
+       alt="Data Challenge - Caisse des Dépôts"
+       width="100%">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-Analyse%20de%20données-3776AB?logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-Analyse%20géospatiale-139C5A)
 ![QGIS](https://img.shields.io/badge/QGIS-Cartographie-589632?logo=qgis&logoColor=white)
